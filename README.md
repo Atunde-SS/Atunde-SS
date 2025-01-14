@@ -15,15 +15,13 @@
 
 ### 🤝 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/widianto-eka-saputro-5b7a3b168/" target="_blank">
+  <a href="https://www.linkedin.com/in/atunde_ss/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   
-  <a href="https://instagram.com/widiskelington" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
+
   
-  <a href="https://x.com/widiskel" target="_blank">
+  <a href="https://x.com/0xdfinity" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
 </p>
